@@ -2,7 +2,7 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🧐 Estudando HTML,CSS e JavaScript ...
-- 📧 Email: Securit891@gmail.com
+- 📧 Email: diogogiovane92@hotmail.com
 
 
 
