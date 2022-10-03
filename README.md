@@ -1,7 +1,7 @@
 ### Olá 👋😎
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🧐 Estudando HTML,CSS e JavaScript ...
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 📖 Estudando HTML,CSS e JavaScript.
 - 📧 Email: diogogiovane92@hotmail.com
 
 
