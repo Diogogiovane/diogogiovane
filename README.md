@@ -1,8 +1,8 @@
 ### Olá 👋😎
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 📖 Estudando HTML,CSS e JavaScript.
+- 📚 Cursando, Análise e Desenvolvimento de Sistemas 💻
 - 📧 Email: diogogiovane92@hotmail.com
+- 📧 Email: Xukrutsz99@hotmail.com
 
 
 
