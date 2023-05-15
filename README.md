@@ -2,7 +2,7 @@
 
 ![Apresentação](presentation.gif)
 
-Olá! Meu chamo Diogo, sou um estudante de análise e desenvolvimento de sistemas. Meu objetivo é unir design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
+Olá! Me chamo Diogo, sou um estudante de análise e desenvolvimento de sistemas. Meu objetivo é unir design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
 
 ## Habilidades em estudo no momento
 
