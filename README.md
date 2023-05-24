@@ -1,4 +1,4 @@
-# Olá
+# Olá, Bem vindo(a)
 
 
 Me chamo Diogo, sou estudante de análise e desenvolvimento de sistemas (3 semestre), e atualmente estou estudando sobre Front-End. Meu objetivo é unir um design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
