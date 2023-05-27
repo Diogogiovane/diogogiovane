@@ -10,7 +10,7 @@ Me chamo Diogo, sou estudante de análise e desenvolvimento de sistemas (3 semes
 
 ## Ferramentas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/640px-Notion-logo.svg.png" alt="Notion" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/120px-Git-logo.svg.png" alt="Git" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="80"><imag src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/640px-Trello-logo-blue.svg.png" aly="Trello" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/640px-Notion-logo.svg.png" alt="Notion" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/120px-Git-logo.svg.png" alt="Git" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="80"> <imag src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/640px-Trello-logo-blue.svg.png" aly="Trello" width="80">
 
 
 <div> 
