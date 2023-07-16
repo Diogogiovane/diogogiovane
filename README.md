@@ -1,9 +1,15 @@
 # Olá, Bem vindo(a)
 
-
-Me chamo Diogo, sou estudante de análise e desenvolvimento de sistemas (4 semestre). E atualmente, estou estudando sobre Front-End. Meu objetivo é unir um design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
+<details>
+  <summary>Mais sobre mim</summary>
+  <ul>
+   Me chamo Diogo, sou estudante de análise e desenvolvimento de sistemas (4 semestre). E atualmente, estou estudando sobre Front-End. Meu objetivo é unir um design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
 Atualmente estou aprendendo sobre as linguagens que envolvem mais o Front-End, mas também tenho curiosidade em aprender como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Recentemente estou estudando sobre html e css, e logo depois meus alvos são JavaScript e Python, e provavelmente também C#. Também estou no momento adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como Git, GitHub e Notion.
-## Habilidades em estudo no momento
+  </ul>
+</details>
+
+
+## Habilidades em estudo no momento.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80">
 
