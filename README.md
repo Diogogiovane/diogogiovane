@@ -1,7 +1,7 @@
 # Olá, Bem vindo(a)
 
 <details>
-  <summary>Sobre mim</summary>
+  <summary>Clique aqui para saber mais sobre mim</summary>
   <ul>
    Me chamo Diogo, sou estudante de análise e desenvolvimento de sistemas (4 semestre). E atualmente, estou estudando sobre Front-End. Meu objetivo é unir um design intuitivo e elegante, com código eficiente para entregar projetos de alta qualidade.
 Atualmente estou aprendendo sobre as linguagens que envolvem mais o Front-End, mas também tenho curiosidade em aprender como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Recentemente estou estudando sobre html e css, e logo depois meus alvos são JavaScript e Python, e provavelmente também C#. Também estou no momento adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como Git, GitHub e Notion.
