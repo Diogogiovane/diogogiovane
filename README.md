@@ -39,7 +39,7 @@ Ferramentas
 
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Diogogiovane&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Diogogiovane&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" width="600" />
 <p align="center">
 
 
