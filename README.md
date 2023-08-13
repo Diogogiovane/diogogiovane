@@ -8,10 +8,15 @@
   <ul>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <p align="left"> 
-   Me chamo Diogo, e sou estudante de Análise e Desenvolvimento de sistemas (4 semestre). Atualmente, estou estudando sobre Front-End. Meu objetivo é inovação, com o foco principal em "tornar melhor a vida das pessoas" através de atitudes juntamente com a tecnologia. Quero com essa ferramenta poder tornar o lugar onde a gente vive melhor.
-Atualmente, estou aprendendo sobre as linguagens que envolvem mais o Front-End, mas também tenho curiosidade em aprender como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Recentemente, estou estudando sobre HTML e CSS, e logo após, meus alvos seram JavaScript e Python. E provavelmente também C#. Também estou no momento adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como o Git, GitHub e Notion.
-Meu interesse vai desde a programação e o desenvolvimento, até assuntos que envolvem cibersegurança. Em verdade, acredito que o conhecimento é fundamental, então devemos sempre buscar o desenvolvimento profissional e pessoal.
-    </p>
+   Olá, me chamo Diogo, e sou estudante de Análise e Desenvolvimento de sistemas. Atualmente, em tecnologia, estou estudando sobre Front-End. Meu objetivo é inovação, com o foco principal em "tornar melhor a vida das pessoas" através de atitudes, juntamente com a tecnologia e outras ferramentas. Quero com essa ferramenta, que é a tecnologia, poder tornar o lugar onde vivemos melhor. Também tenho curiosidade em saber como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Também estou no momento, adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como o Git, GitHub e Notion. Em verdade, acredito que o conhecimento é fundamental, então devemos sempre buscar o desenvolvimento profissional e pessoal.
+Durante meu caminho profissional desenvolvi algumas habilidades com Artes, através de cursos de desenho, entre eles o desenho Artístico e o Realista. Acredito que essas habilidades, contribuem com estas novas habilidades que pretendo desenvolver cada vez mais na tecnologia. Para não deixar esta descrição longa, optei por fazer uma "carta de apresentação abaixo", caso for do seu interesse.
+
+<details> 
+<summary>Carta de apresentação</summary>
+<ul>sdsdsd</ul>
+</details>
+
+  </p>
   </ul>
 
 </details>
