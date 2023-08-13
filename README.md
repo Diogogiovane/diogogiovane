@@ -8,11 +8,10 @@
   <ul>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <p align="left"> 
-   Olá, me chamo Diogo, e sou estudante de Análise e Desenvolvimento de sistemas. Atualmente, em tecnologia, estou estudando sobre Front-End. Meu objetivo é inovação, com o foco principal em "tornar melhor a vida das pessoas" através de atitudes, juntamente com a tecnologia e outras ferramentas. Quero com essa ferramenta, que é a tecnologia, poder tornar o lugar onde vivemos melhor. Também tenho curiosidade em saber como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Também estou no momento, adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como o Git, GitHub e Notion. Em verdade, acredito que o conhecimento é fundamental, então devemos sempre buscar o desenvolvimento profissional e pessoal.
-Durante meu caminho profissional desenvolvi algumas habilidades com Artes, através de cursos de desenho, entre eles o desenho Artístico e o Realista. Acredito que essas habilidades, contribuem com estas novas habilidades que pretendo desenvolver cada vez mais na tecnologia. Para não deixar esta descrição longa, optei por fazer uma "carta de apresentação abaixo", caso for do seu interesse.
-
+   Olá, me chamo Diogo, e sou estudante de Análise e Desenvolvimento de sistemas. Atualmente, em tecnologia, estou estudando sobre Front-End. Meu objetivo é inovação, com o foco principal em "tornar melhor a vida das pessoas" através de atitudes, juntamente com a tecnologia e outras ferramentas. Quero com essa ferramenta, que é a tecnologia, poder tornar o lugar onde vivemos melhor. Também tenho curiosidade em saber como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Além disso, me interesso bastante sobre UX, e está sendo um dos meus objetivos de estudo, pois antes disso já me interessava por areas semelhantes que buscam entender o usuário, ou seja, as pessoas. Também estou no momento, adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como o Git, GitHub e Notion. Em verdade, acredito que o conhecimento é fundamental, então devemos sempre buscar o desenvolvimento profissional e pessoal.
+Durante meu caminho profissional desenvolvi algumas habilidades com Artes, através de cursos de desenho, entre eles o desenho Artístico e o Realista. Acredito que essas habilidades, contribuem com estas novas habilidades que pretendo desenvolver cada vez mais na tecnologia.
 <details> 
-<summary>Carta de apresentação</summary>
+<summary>B</summary>
 <ul>sdsdsd</ul>
 </details>
 
