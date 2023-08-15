@@ -12,7 +12,7 @@
 Durante meu caminho profissional desenvolvi algumas habilidades com Artes, através de cursos de desenho, entre eles o desenho Artístico e o Realista. Acredito que essas habilidades, contribuem com estas novas habilidades que pretendo desenvolver cada vez mais na tecnologia.
 <details> 
 <summary>Sobre mim</summary>
-<ul>Resumindo, eu gosto de ler, escrever, desenhar, praticar exercícios e estudar. Sou uma pessoa discreta, que gosta de compartilhar aprendizados e aprender. E, estar com a familia e amigos.</ul>
+<ul>Resumindo, eu gosto de ler, escrever, desenhar, praticar exercícios e estudar. Sou uma pessoa discreta, que gosta de estar com a familia e amigos, e de compartilhar aprendizados e aprender.</ul>
 </details>
 
   </p>
