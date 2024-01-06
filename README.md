@@ -10,11 +10,8 @@
     <p align="left"> 
    Olá, me chamo Diogo, e sou estudante de Análise e Desenvolvimento de sistemas. Atualmente, em tecnologia, estou estudando sobre Front-End. Meu objetivo é inovação, com o foco principal em "tornar melhor a vida das pessoas" através de atitudes, juntamente com a tecnologia e outras ferramentas. Quero com essa ferramenta, que é a tecnologia, poder tornar o lugar onde vivemos melhor. Também tenho curiosidade em saber como funcionam as coisas no Back-end, e com certeza será um dos meus próximos passos. Além disso, me interesso bastante sobre UX, e está sendo um dos meus objetivos de estudo, pois antes disso já me interessava por areas semelhantes que buscam entender o usuário, ou seja, as pessoas. Também estou no momento, adquirindo conhecimento sobre o sistema Linux, através de Maquinas Virtuais, e sobre algumas ferramentas, como o Git, GitHub e Notion. Em verdade, acredito que o conhecimento é fundamental, então devemos sempre buscar o desenvolvimento profissional e pessoal.
 Durante meu caminho profissional desenvolvi algumas habilidades com Artes, através de cursos de desenho, entre eles o desenho Artístico e o Realista. Acredito que essas habilidades, contribuem com estas novas habilidades que pretendo desenvolver cada vez mais na tecnologia.
-<details> 
-<summary>Sobre mim</summary>
-<ul>Resumindo, eu gosto de ler, escrever, desenhar, praticar exercícios e estudar. Sou uma pessoa discreta, que gosta de estar com a familia e amigos, e de compartilhar aprendizados e aprender.
-  Quer acompanhar o que estou aprendendo? Me acompanhe no Substack, onde escrevo sobre vários assuntos incluindo tecnologia. 
-  <a href="https://medium.com/@Dancerco"> Substack </a> 
+
+
 </ul>
 </details>
 
